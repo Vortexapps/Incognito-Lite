@@ -1,5 +1,4 @@
 {
-  "name": "incongdev",
   "version": "1.0.0",
   "description": "Unofficial Incognito easy deployment version with TompHTTP bare server included using BUFFY.",
   "type": "module",
